@@ -2,6 +2,10 @@
 
 This algorithm uses a bio-inspired selection process to optimize drug candidates. 
 
+
+### Breakdown:
+
+
 Importing files and toolkits
 ```
 from rdkit import Chem
