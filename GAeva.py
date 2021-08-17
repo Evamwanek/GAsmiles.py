@@ -4,7 +4,7 @@ import random
 import csv
 import random
 import string
-with open('/Users/lydiawanek/Desktop/NO DELETE/fonts/bitter-testt.csv' , newline ='') as f:
+with open('file.csv' , newline ='') as f:
     reader = csv.reader(f)
     data = list(reader)
     f.close()
